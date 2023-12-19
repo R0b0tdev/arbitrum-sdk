@@ -8,7 +8,7 @@ Below is an overview of the Arbitrum SDK functionality. See the [tutorials](http
 
 - ##### Deposit Ether Into Arbitrum
 
-```ts
+```ts 
 import { getL2Network, EthBridger } from '@arbitrum/sdk'
 
 const l2Network = await getL2Network(
